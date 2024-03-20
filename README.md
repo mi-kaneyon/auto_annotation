@@ -3,6 +3,11 @@
 Create bounding box in the image automatically.
 - If you want to specific label, please check src directory for specific data generate scripts
 
+# auto annotation image
+- depends on setting and pretrained model
+![Test Image 3](annotationsample.JPG)
+
+  
 # Directory
 <pre>
 ├── processed
